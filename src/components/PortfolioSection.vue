@@ -1,5 +1,5 @@
 <template>
-  <section class="full-vh-section">
+  <section class="full-vh-section" id="Work">
     <div class="text-center">
       <div class="about_title">WE BUILD GOOD STUFF</div>
       <div class="about_subtitle">OUR PORTFOLIO</div>

@@ -3,7 +3,7 @@
     <div class="container" style="padding: 3rem">
       <div class="row">
         <div
-          class="col-12 col-lg-4 flex wrap flex-center text-center text-white"
+          class="col-12 col-md-4 flex wrap flex-center text-center text-white"
           style="margin-bottom: 3rem"
         >
           <div class="card">
@@ -16,7 +16,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-lg-4 flex wrap flex-center text-center text-white"
+          class="col-12 col-md-4 flex wrap flex-center text-center text-white"
           style="margin-bottom: 3rem"
         >
           <div class="card">
@@ -30,7 +30,7 @@
           </div>
         </div>
         <div
-          class="col-12 col-lg-4 flex wrap flex-center text-center text-white"
+          class="col-12 col-md-4 flex wrap flex-center text-center text-white"
           style="margin-bottom: 3rem"
         >
           <div class="card">
