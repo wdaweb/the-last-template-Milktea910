@@ -7,6 +7,6 @@
 3. 使用 Swiper.js 實作輪播圖
    <img src="./readmeImage/Swiper.png" alt="Swiper">
 4. 使用 GSAP 實作動畫
-   <img src="./readmeImage/gsap.png.png" alt="gasp">
+   <img src="./readmeImage/gsappng" alt="gsap">
 5. 自選一個套件：lightbox
    <img src="./readmeImage/lightbox.png" alt="lightbox">
