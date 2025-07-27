@@ -1,1 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/w-KMrjvJ)
+## The Last Template
+
+- 截止日期 2025/07/27 2359
+
+1. [Hazel Demos2](https://demo.templatemonster.com/demo/67167.html?_gl=1*1fg5dfa*_ga*NDYzNjgyNTA4LjE3NTA5ODkwMDQ.*_ga_FTPYEGT5LY*czE3NTE5NTk2MDkkbzMkZzEkdDE3NTE5NjAzMjIkajM1JGwwJGgw)
+2. Quasar + RWD
+3. 使用 Swiper.js 實作輪播圖
+   <img src="./readmeImage/Swiper.png" alt="Swiper">
+4. 使用 GSAP 實作動畫
+   <img src="./readmeImage/gsap.png.png" alt="gasp">
+5. 自選一個套件：lightbox
+   <img src="./readmeImage/lightbox.png" alt="lightbox">
